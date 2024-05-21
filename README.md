@@ -1,5 +1,4 @@
 # NYC Water Analysis
-
 # Overview
 This project uses Python for data analysis and machine learning tasks. The technologies and libraries used include Pandas, Matplotlib, Seaborn, NumPy, Scikit-Learn, and BeautifulSoup for web scraping.
 
